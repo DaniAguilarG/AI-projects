@@ -1,6 +1,6 @@
 #Graph representation using adjancency list
 #Graphs are good for AI search algorithms
-from collections import defaultdict
+from collections import defaultdict, deque
 
 class Graph:
     def __init__(self):
