@@ -2,4 +2,12 @@
 
 
 First we will have some basic Data Structured algorithms under:
-/Users/daniela/AI-projects/AI-data-structures
+AI-projects/AI-data-structures
+
+*BST
+*heap
+#tries
+
+AI-projects/AI-LLM 
+
+AI-projects/AI-Vectorization
